@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ederg\OneDrive\Escritorio\EDER\Estudios\1 DAW\ENTORNOS\ENTORNOS_EV2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1497578568.index
+1874630761.index
