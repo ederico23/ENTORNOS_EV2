@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_x8mGoAXHEfGnUJ8SEnZMFA" name="CasosDeUso">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_yIIoQAXHEfGnUJ8SEnZMFA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_nw3gMAXMEfGnUJ8SEnZMFA" name="extends" client="_zHG8gAXIEfGnUJ8SEnZMFA" supplier="_D5kNEAXJEfGnUJ8SEnZMFA"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_h3_9cAXOEfGnUJ8SEnZMFA" name="Package6">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_zHG8gAXIEfGnUJ8SEnZMFA" name="registrarse"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_poXKIAXIEfGnUJ8SEnZMFA" name="cliente"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_D5kNEAXJEfGnUJ8SEnZMFA" name="comprarProductos"/>
+    <packagedElement xmi:type="uml:Realization" xmi:id="_0o-wMAXOEfGnUJ8SEnZMFA" client="_poXKIAXIEfGnUJ8SEnZMFA" supplier="_zHG8gAXIEfGnUJ8SEnZMFA"/>
+    <packagedElement xmi:type="uml:Realization" xmi:id="_1qM8oAXOEfGnUJ8SEnZMFA" client="_poXKIAXIEfGnUJ8SEnZMFA" supplier="_D5kNEAXJEfGnUJ8SEnZMFA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_C19W0AXQEfGnUJ8SEnZMFA" name="ej3">
+    <packagedElement xmi:type="uml:Actor" xmi:id="_FHBagAXQEfGnUJ8SEnZMFA" name="profesor"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_Gys5MAXQEfGnUJ8SEnZMFA" name="alumno"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_sw7j8AXQEfGnUJ8SEnZMFA" name="introducirNotas"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_1ImZgAXQEfGnUJ8SEnZMFA" name="modificarNotas"/>
+  </packagedElement>
+</uml:Model>
